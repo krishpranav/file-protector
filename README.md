@@ -15,7 +15,7 @@
 - python3 file-protector/file_p.py [enter the correct ans for the question youv asked]
 
 ## License:
-- this project is licensed under (BSD 3-Clause License)[https://github.com/krishpranav/file-protector/blob/master/LICENSE]
+- this project is licensed under [BSD 3-Clause License](https://github.com/krishpranav/file-protector/blob/master/LICENSE)
 ```
 BSD 3-Clause License
 
