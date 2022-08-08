@@ -89,7 +89,7 @@ def parent_clear(file_evalpaths, path):
     return True
 
 
-def rm(rm_args=None):
+def file_protect(rm_args=None):
     global c
     global evaledpaths
     args = ''
@@ -148,4 +148,4 @@ def bash_path(path):
 
 
 if __name__ == "__main__":
-    rm()
+    file_protect()
